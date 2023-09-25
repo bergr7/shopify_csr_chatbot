@@ -46,6 +46,8 @@ data/*
 
 # notebooks
 *.ipynb
+# Except for tutorial.ipynb
+!tutorial.ipynb
 
 # flagged from gradio
 flagged/
